@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1688056913 source:d:\00. tel-u\0.1 perkuliahan\1.pembelajaran\semester 4\strategi algoritma\tubes\unlock problem\main.cpp
+	<iostream>
+	<chrono>
+	<string>
+	<cstdlib>
+	<ctime>
+
